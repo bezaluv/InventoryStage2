@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">InventoryStage2</string>
+
+    <!--Labels to insert dummy book detail values in the Book Details table -->
+    <string name="book_name">Reckless</string>
+    <string name="book_price">20</string>
+    <string name="book_quantity">50</string>
+    <string name="book_supplier_name">HarperCollins</string>
+    <string name="book_supplier_phone_number">800–456–7804</string>
+
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="action_delete_all_entries">Delete All Books</string>
+    <string name="editor_activity_add_new_book">Add a Book</string>
+    <string name="dollar">$</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="hint_book_name">Book</string>
+    <string name="price">Price</string>
+    <string name="hint_supplier_name">Supplier</string>
+    <string name="editor_insert_book_failed">Error with saving book</string>
+    <string name="editor_delete_book_successful">Book deleted</string>
+    <string name="edit_delete_book_failed">Error with deleting book</string>
+    <string name="empty_view_title_text">It\'s a bit lonely here…</string>
+    <string name="empty_view_subtitle_text">Get started by adding a book</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+
+    <!-- Label for books menu option to add new book [CHAR LIMIT=20] -->
+    <string name="action_add">Add</string>
+    <string name="delete_dialog_msg">Delete this book?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="editor_activity_title_new_book">Add a Book</string>
+    <string name="editor_insert_book_successful">Book saved</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="error_saving">Error with saving book</string>
+    <string name="book_saved">book saved with row id:</string>
+
+    <!-- Text for books_deleted_success -->
+    <string name="books_deleted_success">All the books in the inventory are deleted successfully</string>
+
+    <!-- Text for books_deleted_failed -->
+    <string name="books_deleted_failed">Books deletion is unsuccessful, try again</string>
+
+    <string name="editor_activity_title_existing_book">existing_book</string>
+    <string name="category_overview">Category Overview</string>
+    <string name="hint_book_price">Book Price</string>
+    <string name="hint_book_quantity">Book quantity</string>
+    <string name="supplier_details">Supplier Details</string>
+    <string name="hint_supplier_phone_number">Supplier Phone Number</string>
+    <string name="save_books">Save Books</string>
+    <string name="sale">SALE</string>
+
+</resources>

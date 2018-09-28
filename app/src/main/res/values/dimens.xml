@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Margin around the floating action button in CatalogActivity -->
+    <!-- Margin around the floating action button in CatalogActivity -->
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!-- Common margin value used throughout the app -->
+    <dimen name="activity_margin">8dp</dimen>
+
+
+    <dimen name="text_view_books_count_header_size">16sp</dimen>
+    <dimen name="text_view_books_header_details_size">20sp</dimen>
+
+    <!-- Common padding value used throughout the app -->
+    <dimen name="activity_padding">16dp</dimen>
+
+    <!-- padding for the empty title text  -->
+    <dimen name="empty_view_sub_title_text_paddingTop">8dp</dimen>
+
+    <dimen name="action_compute_quantity_layout_width">24dp</dimen>
+    <dimen name="action_compute_quantity_layout_height">24dp</dimen>
+    <dimen name="text_inputlayout_quantity_layout_width">56dp</dimen>
+    <dimen name="edit_ll_padding_left">4dp</dimen>
+    <dimen name="edit_ll_layout_width">0dp</dimen>
+    <dimen name="action_call_layout_width">32dp</dimen>
+    <dimen name="action_call_layout_height">32dp</dimen>
+    <dimen name="supplier_phone_number_layout_width">160dp</dimen>
+</resources>
